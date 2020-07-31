@@ -1,4 +1,4 @@
-# Laravel-Authenticate-ON-
+# Laravel-Authenticate-ON
 
 This site allows users to verify their Optimum-Nutrition product and receive regular updates about the promotional offers from Optimum Nutrition. Moreover, users from 11 different
 countries can search for authorized retailers surrounding their location in South and West Asia. They can also get the driving distance and driving directions from their location to
