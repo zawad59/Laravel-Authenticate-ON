@@ -1,0 +1,19 @@
+ <!-- Modal content -->
+  <div id="modal-content" >
+    <div class="modal-header">
+      <span class="close" id="closemodal">&times;</span>
+      <h2 class="title_modal">Online Stores</h2>
+    </div>
+    <div class="modal-body">
+      @foreach($online_stores as $o_store)
+      <p id="o_s_name">{{$o_store->name}}<span id="gap"><a href="{{$o_store->link}}" class="button">{{__('text.Weblink')}}</a></span></p>
+
+      @endforeach
+    </div>
+
+  </div>
+
+</div>
+
+
+#img2:hover + #modal_online2, #modal_online2:hover
