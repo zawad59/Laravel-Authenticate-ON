@@ -8,8 +8,8 @@ This project is derived from : [Authenticate-On](https://authenticateon.com/). T
 
 __Usage :__ Laravel, Jquery, Ajax, Google Maps JavaScript API.
 
-__How to Run :__ Download all the contents from project root folder and using command line change directory to the folder "Authenticate_ON_Laravel". 
-__Run these commands from cmd :__ 
+__How to Run :__/ Download all the contents from project root folder and using command line change directory to the folder "Authenticate_ON_Laravel". 
+/__Run these commands from cmd :__ 
                   1. composer install( You need to have composer installed on your machine to run this command successfully)
                   2. copy .env.example .env
 
