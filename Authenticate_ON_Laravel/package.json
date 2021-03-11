@@ -21,7 +21,7 @@
         "vue-template-compiler": "^2.6.11"
     },
     "dependencies": {
-        "elliptic": "^6.5.3",
+        "elliptic": "^6.5.4",
         "websocket-extensions": "^0.1.4"
     }
 }
